@@ -1,5 +1,5 @@
 # Raycasting
-A friend of mine and me built this raycaster in pure x86 TASM assembly.
+A friend of mine and I built this raycaster in pure x86 TASM assembly.
 
 # Notes
 * This program is made for the DOSBox Emulator.
