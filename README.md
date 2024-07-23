@@ -14,7 +14,9 @@
 4. Move around the map using the controls
 
 # Controls
-Use the `WASD` keys to move around. Use the mouse (or `J` and `L` keys) to rotate. Press space to go into map mode. Press Escape to exit the program and go back into text mode.
+Use the `WASD` keys to move around.
+Press `SPACE` to toggle edit mode
+Use the mouse (or `J` and `L` keys) to rotate. Press space to go into map mode. Press Escape to exit the program and go back into text mode.
 
 # Compiling and linking the code
 * Make sure `royale.asm` is in the same directory as your TASM assembler and TLINK linker.
