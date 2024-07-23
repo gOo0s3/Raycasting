@@ -1,5 +1,7 @@
 # Raycasting
-A friend of mine and I built this raycaster in pure x86 TASM assembly.
+![ASSEMBLY](https://img.shields.io/badge/TASM-Turbo_Assembly-blue) ![DOSBox](https://img.shields.io/badge/DOSBox-orange)
+
+ Raycaster game engine in pure x86 TASM assembly.
 
 # Notes
 * This program is made for the DOSBox Emulator.
